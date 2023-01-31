@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=999999999&color=fff&multiline=true&width=435&height=30&lines=DMITRY+VASILIEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=999999999&color=fff&multiline=true&width=435&height=30&lines=DMITRIY+VASILIEV)](https://git.io/typing-svg)
 <br />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=999999999&color=A4A4A4FF&multiline=true&width=435&height=25&lines=FRONTEND+DEVELOPER)](https://git.io/typing-svg)
 
